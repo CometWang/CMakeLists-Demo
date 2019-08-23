@@ -1,0 +1,6 @@
+/mnt/c/Demo3/CMakeFiles/rebuild_cache.dir
+/mnt/c/Demo3/CMakeFiles/Demo.dir
+/mnt/c/Demo3/CMakeFiles/edit_cache.dir
+/mnt/c/Demo3/cipher/CMakeFiles/rebuild_cache.dir
+/mnt/c/Demo3/cipher/CMakeFiles/ciphers.dir
+/mnt/c/Demo3/cipher/CMakeFiles/edit_cache.dir

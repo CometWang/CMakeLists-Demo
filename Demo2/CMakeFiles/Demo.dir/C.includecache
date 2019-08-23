@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Demo2/cipher_main.c
+ciphers.h
+/mnt/c/Demo2/ciphers.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/mnt/c/Demo2/ciphers.c
+stdio.h
+-
+ctype.h
+-
+stdlib.h
+-
+string.h
+-
+
+/mnt/c/Demo2/ciphers.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libciphers.a  CMakeFiles/ciphers.dir/ciphers.c.o
+/usr/bin/ranlib libciphers.a

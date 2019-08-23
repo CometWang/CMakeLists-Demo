@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/cipher.dir/src/cipher_main.c.o CMakeFiles/cipher.dir/src/ciphers.c.o  -o cipher  -L/mnt/c/Demo5/build 
